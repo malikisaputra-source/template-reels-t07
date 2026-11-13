@@ -1,0 +1,23 @@
+{
+  "name": "template-reels-t07-dokumenter-retro",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render T07Dokumenter out/video.mp4",
+    "still": "remotion still T07Dokumenter out/still.png --frame=60",
+    "cek": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.536",
+    "@remotion/google-fonts": "4.0.536",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.536"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "^5.6.3"
+  }
+}
