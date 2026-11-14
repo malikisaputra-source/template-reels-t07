@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // ✏️ UBAH DI SINI: semua teks, warna, gambar (taruh di public/), dan audio opsional.
 // Lama tiap adegan diatur di komponen (frame, 30 fps).
 export const K = {

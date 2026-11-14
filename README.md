@@ -49,4 +49,4 @@ proyek/
 ```
 
 ## Lisensi
-MIT + syarat tambahan kredit-maliki (lihat `LICENSE`): kredit "Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id" wajib tetap ada, dan template ini tidak boleh dijual ulang tanpa izin.
+Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat `LICENSE`): kredit "Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id" wajib tetap ada, dan template ini tidak boleh dijual ulang tanpa izin.

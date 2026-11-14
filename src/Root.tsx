@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 import React from "react";
 import { Composition } from "remotion";
 import { T07Dokumenter, DURASI_T07 } from "./T07Dokumenter";

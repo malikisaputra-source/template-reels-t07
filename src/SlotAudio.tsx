@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // Slot audio opsional: musik latar (loop + fade) dan suara/VO. Kosong (null) = video tanpa suara.
 import React from "react";
 import { Audio, interpolate, staticFile, useVideoConfig } from "remotion";

@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // T07 v2 · Dokumenter Retro — mengikuti ritme reel acuan per detik (9 Nov 2026).
 // Urutan: putih + kata kunci hijau → hijau: amplop/uang + kata hitam miring → langit abu + "KATANYA" merah →
 // merah gelap dengan huruf raksasa samar + uang diserahkan, lingkaran putus-putus → tahun raksasa + tokoh muncul

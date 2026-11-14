@@ -2,7 +2,7 @@
   "name": "template-reels-t07-dokumenter-retro",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render T07Dokumenter out/video.mp4",
